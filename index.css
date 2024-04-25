@@ -1,0 +1,288 @@
+header{
+	box-shadow: 0px 0px 2px 1px;
+	width: 100%;
+	height: 7vh;
+	background: #c3ffd9;	
+}
+
+header nav ul{
+	list-style-type: none;
+	float: right;
+	display: flex;
+	justify-content: space-between;
+	gap: 40px;
+
+}
+
+header nav ul li{
+	display: inline-block;
+	padding: 2px;
+}
+
+header nav ul li a{
+	text-decoration: none;
+	
+}
+
+header nav h1{
+	display: inline-block;
+	font-size: 20px;
+	position: absolute;
+	top: 1px;
+	padding: 5px;
+	text-shadow: 0 5px 2px orange;
+
+}
+
+section img{
+	width: 100%;
+	height: 400px;
+}
+
+a:hover{
+	color: red;
+}
+
+/*========== PARA ===========
+*/
+.para{
+/*	border: 1px solid;*/
+	width: 30%;
+	height: 350px;
+	position: absolute;
+	top: 13%;
+	left: 5%;
+	background: transparent;
+	color: white;
+}
+
+/*========= SERVICES ==========*/
+
+.section{
+	padding: 20px;
+}
+
+.div{
+	border: 1px solid;
+	width: 30%;
+	margin-top: 20px;
+	display: inline-block;
+	position: absolute;
+	top: 480px;
+	left: 100px;
+}
+.div1{
+	border: 1px solid;
+	width: 30%;
+	margin-top: 20px;
+	display: inline-block;
+	
+	position: absolute;
+	top: 480px;
+	right: 100px;
+}
+.h2{
+	position: relative;
+	top: 74%;
+	left: 44%;
+	text-shadow: 0 5px 3px skyblue;
+}
+.section{
+	display: flex;
+	justify-content: space-evenly;
+	background: #f9fff3;
+}
+.box{
+/*	border: 1px solid;
+*/	width: 28%;
+	height: 450px;
+	padding: px;
+}
+.box h1{
+	text-align: center;
+}
+.section img{
+	width: 90%;
+	height: 250px;
+	padding-top: 13px;
+	padding-left: 13px;
+}
+
+.section p{
+	text-align: center;
+}
+
+/*========== BLOGS ============*/
+
+.BLOGS{
+/*	border: 1px solid;
+*/	width: 100%;
+	height: 80px;
+}
+.border{
+	border: 1px solid;
+	display: inline-block;
+	width: 30%;
+	position: absolute;
+	top: 1070px;
+	left: 10%;
+}
+
+.border1{
+	border: 1px solid;
+	display: inline-block;
+	width: 30%;
+	position: absolute;
+	top: 1070px;
+	right: 10%;
+}
+
+.title{
+	text-align: center;
+	text-shadow: 0 5px 3px skyblue;
+	
+}
+
+/*========= section blog ========= */
+
+.blog{
+/*	border: 1px solid;
+*/	width: 100%;
+	height: 1200px;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	background: #f9fff3;
+	padding: 20px;
+}
+.blogimg{
+/*	border: 1px solid;
+*/	width: 300px;
+	height: 550px;
+}
+.blogimg img{
+	width: 100%;
+	height: 250px;
+}
+
+/*=========== a ===========*/
+
+.blogimg a{
+	text-decoration: none;
+	font-size: 22px;
+}
+.blogimg a:hover{
+	color: green;
+}
+.i i{
+	font-size: 15px;
+}
+i:hover{
+	color: red;
+}
+
+.blogimg p a{
+	
+}
+
+/*=========== foooter ===========*/
+
+.space{
+	width: 100%;
+	height: 50px;
+}
+
+.footer{
+/*	border: 1px solid;
+*/	width: 100%;
+	height: 200px;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+.footer1{
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 80px;
+	background: #f9fff3;
+}
+
+
+
+.footer1 h1{
+	text-align: center;
+	padding: 8px;
+}
+
+.footer1 a{
+	text-decoration: none;
+
+
+}
+.footer1 a:hover{
+	color: green;	
+}
+
+/*========= section foooter2 ===========
+*/
+.footer2{
+	border: 1px solid;
+	width: 100%;
+	height: 100px;
+	background: #015201;
+	color: white;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.footer3{
+/*	border: 1px solid white;
+*/	width: 30%;
+	height: 60px;
+	margin-top: 18px;
+	text-align: center;
+
+}
+.footer4{
+/*	border: 1px solid white;
+*/	width: 30%;
+	height: 60px;
+	margin-top: 18px;
+
+}
+
+	
+.footer5{
+/*	border: 1px solid white;
+*/	width: 30%;
+	height: 60px;
+	margin-top: 18px;
+	text-align: center;
+}
+/*.facebook img{
+	margin-top: -10px;
+}*/
+.instagram img{
+	height: 20px;
+	width: 20px;
+	margin-top: 10px;
+}
+.facebook img{
+	height: 20px;
+	width: 20px;
+	margin-top: 20px;
+	margin-left: 80px;
+}
+.youtube img{
+	height: 20px;
+	width: 20px;
+	margin-top: 20px;
+	margin-left: 0px;
+}
+.twiter img{
+	height: 20px;
+	width: 20px;
+	margin-top: 20px;
+	margin-left: 0px;
+}

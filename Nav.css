@@ -1,0 +1,48 @@
+
+nav div{
+	border: 2px solid;
+	width: 100%;
+	height: 80px;
+	background: black;
+}
+nav h1{
+	font-size: 30px;
+	margin-left: ;
+	display: inline-block;
+	position: absolute;
+	top: 5px;
+	left: 15px;
+	color: white;
+
+}
+nav li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 35px;
+	margin-top: 10px;
+	border: 2px solid;
+	border-top: 2px;
+	border-bottom: 2px;
+	border-radius: 5px;
+	padding: 2px;
+	color: white;
+}
+nav li:hover{
+	color: red;
+}
+.class img{
+	margin-top: 20px;
+	border: 1px inherit;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.class h1{
+	text-align: center;
+
+}
+.a{
+	border: 2px solid;
+	width: 100%;
+	margin-top: 20px;
+}

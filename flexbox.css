@@ -1,0 +1,111 @@
+.mainbox{
+	border: 1px solid;
+	width: 100%;
+	height: 1200px;
+	background: #8799ef;
+}
+.mainbox h1,h3{
+	text-align: center;
+}
+/*.mainbox1 button{
+	box-shadow: 2px 2px 2px 2px;
+	margin-left: 430px;
+	padding: 2px;
+	margin-top: 20px;
+	display: flex;
+}*/
+.button{
+	display: flex;
+	justify-content: center;
+	position: relative;
+	top: 30px;
+	left: 555px;
+	width: 126px;
+	box-shadow: 2px 2px 2px 2px;
+	background: white;
+	box-align: center;
+}
+.box{
+	display: flex;
+	/*border: 1px solid;*/
+	background: white;
+	width: 100%;
+	height: 450px;
+	margin-top: 150px;
+}
+.box img{
+	width: 250px;
+	height: 365px;
+	margin: 20px;
+}
+.text h4,p{
+	display: flex;
+	margin-left: 30px;
+}
+#button{
+	
+	box-shadow: 2px 2px 2px 2px;
+	margin-left: 30PX;
+	padding: 15px;
+	margin-top: 20px;
+}
+.box1{
+	display: flex;
+	width: 100%;
+	height: 400px;
+	justify-content: space-evenly;
+}
+.box2{
+	border: 1px solid;
+	background: white;
+	width: 250px;
+	height: 300px;
+	box-shadow: 2px 2px 2px 2px;
+}
+.box2 img{
+	width: 40px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+.text1 h4{
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.text1 p{
+	position: relative;
+	top: 5px;
+	left: -18px;
+}
+.text1 button{
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.box3{
+	border: 1px solid;
+	background: white;
+	width: 250px;
+	height: 300px;
+	box-shadow: 2px 2px 2px 2px;
+}
+.box3 img{
+	width: 40px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+.box4{
+	border: 1px solid;
+	background: white;
+	width: 250px;
+	height: 300px;
+	box-shadow: 2px 2px 2px 2px;
+}
+.box4 img{
+	width: 40px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 10px;
+}
